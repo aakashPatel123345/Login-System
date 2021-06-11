@@ -8,3 +8,6 @@ def register(username, password):
 
 def access():
     pass
+
+def reEnterPassword():
+    pass
